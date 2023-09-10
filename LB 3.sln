@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "LB 3", "LB 3.csproj", "{CCE40314-DFE6-41F1-90D8-CEDDD9D089F1}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Элементы решения", "Элементы решения", "{B67AADA2-4AA1-4E7F-8571-916B75517401}"
+	ProjectSection(SolutionItems) = preProject
+		XMLSchema1.xsd = XMLSchema1.xsd
+		Zarplata.cs = Zarplata.cs
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CCE40314-DFE6-41F1-90D8-CEDDD9D089F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CCE40314-DFE6-41F1-90D8-CEDDD9D089F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CCE40314-DFE6-41F1-90D8-CEDDD9D089F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CCE40314-DFE6-41F1-90D8-CEDDD9D089F1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75A014AE-9AFC-4079-8FB7-335BD5CDF663}
+	EndGlobalSection
+EndGlobal
